@@ -1,5 +1,11 @@
 #include <iostream>
 
+
+/*
+    Function that takes a pointer and an integer as arguments
+    Dereferences the pointer, and multiplies the value by the multiplier integer
+*/
+
 void multiplyPtr(int *ptr, int multiplier) {
     *ptr *= multiplier;
 }
