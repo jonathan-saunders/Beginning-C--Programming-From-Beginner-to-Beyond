@@ -1,8 +1,8 @@
 #include <iostream>
 
-void revArray(int *ptr, int size)
+void reverseArray(int *arr, int size)
 {
-    
+    // function here
 }
 
 int main() {
